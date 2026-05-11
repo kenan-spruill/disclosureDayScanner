@@ -7,7 +7,6 @@ __pycache__/
 
 # Local corpus artifacts
 data/
-uap-csv.csv
 
 # OCR temp/results are regenerated from local data
 *.log
