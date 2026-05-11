@@ -1,0 +1,13 @@
+# Core extraction / corpus build dependencies
+pypdf>=6.0.0
+PyMuPDF>=1.26.0
+
+# Notebook / analysis helpers
+pandas>=2.0.0
+jupyter>=1.0.0
+
+# Optional next-stage LLM review client
+openai>=1.0.0
+
+# External system dependency:
+# - tesseract (installed separately, e.g. `brew install tesseract`)

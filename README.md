@@ -76,6 +76,21 @@ This is a better fit for citation, retrieval, and human review than arbitrary sl
 
 ## Basic workflow
 
+## Setup
+
+Create or activate a Python environment, then install the Python dependencies:
+
+```bash
+cd "/Volumes/KenanSSD/AI Agent Projects/alienFiles"
+python3 -m pip install -r requirements.txt
+```
+
+For OCR you also need a system `tesseract` binary. On macOS:
+
+```bash
+brew install tesseract
+```
+
 ### 1. Download assets
 
 ```bash
